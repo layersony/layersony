@@ -15,12 +15,13 @@
 * 💻 I'm a Technical Mentor In Moringa School
 * 🎨 I'm a self-taught UI/UX designer
 * 📱 I make apps for Android and iOS Using React Native
+* 📱 I’m interested in Fintech, Ecommerce , Sustainable Deployments
 * 🎓 I'm a Information Technoogy student
-* 🌐 You can see some of my projects on [my portfolio](https://samuelmaingi.herokuapp.com/)
-* 📺 I make web development and tech Post on [Maingi Blog](http://maingiblog.s3-website.us-east-2.amazonaws.com/)
+* 🌐 You can see some of my projects on [my portfolio](https://maingiportfolio.cybpact.com)
+* 📺 I make web development and tech Post on [Maingi Blog](https://medium.com/@sammaingi5)
 
 <p align="left">
-  <a href="https://samuelmaingi.herokuapp.com/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://maingiportfolio.cybpact.com/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 ## 🔥 My contribution streak
